@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1495DF1A-BE64-40F9-A246-D9003503F7D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BED0D859-77BA-42F5-A350-EE9DB9D94ACC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "terceiroProjeitoViewCode/Login/Screen/LoginScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BED0D859-77BA-42F5-A350-EE9DB9D94ACC - 9a4fb929c6048c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "terceiroProjeitoViewCode.LoginScreen.init(frame: __C.CGRect) -&gt; terceiroProjeitoViewCode.LoginScreen"
+                  moduleName = "terceiroProjeitoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/terceiroProjetoViewCode/terceiroProjeitoViewCode/terceiroProjeitoViewCode/Login/Screen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "BED0D859-77BA-42F5-A350-EE9DB9D94ACC - 9a4fb929c6048c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "terceiroProjeitoViewCode.LoginScreen.init(frame: __C.CGRect) -&gt; terceiroProjeitoViewCode.LoginScreen"
+                  moduleName = "terceiroProjeitoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/terceiroProjetoViewCode/terceiroProjeitoViewCode/terceiroProjeitoViewCode/Login/Screen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B7383D4-E1B4-451D-9F69-91CC38C2B3F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "terceiroProjeitoViewCode/Login/ViewContoller/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22CE665C-7C78-4C4F-A5DB-2CF21E1968AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "terceiroProjeitoViewCode/Login/ViewContoller/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
